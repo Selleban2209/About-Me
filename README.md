@@ -21,7 +21,7 @@
 
 
 
-### :darksman_technologis: man_student: Om Meg :
+### :darksman_technologis: :man_student: Om Meg :
 
 --- 
 
