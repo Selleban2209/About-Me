@@ -23,7 +23,7 @@
 
 Hei!
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 --- 
 
