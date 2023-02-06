@@ -7,6 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="[https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white](https://komarev.com/ghpvc/?username=your-github-salleban2209)" alt="Youtube Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=your-github-salleban2209" alt="Youtube Badge"/>
   </a>
  
