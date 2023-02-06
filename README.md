@@ -21,9 +21,7 @@
 
 
 
-Hei!
-
-### :man_technologist: About Me :
+### :man_technologist: Om Meg :
 
 --- 
 
