@@ -29,8 +29,11 @@
 ### :man_technologist: :man_student: Om Meg 
 
 
-- Bygge videre på profil
+- Er programmerer og student
+- 
 
 
+
+---
 
  
