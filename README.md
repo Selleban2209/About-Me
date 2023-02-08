@@ -21,12 +21,12 @@
 
 
 
-### :man_technologist: :man_student: Om Meg 
+
 
 --- 
 
 ######
-
+### :man_technologist: :man_student: Om Meg 
 
 
 - Bygge videre på profil
