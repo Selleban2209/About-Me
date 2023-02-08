@@ -30,7 +30,8 @@
 
 
 - Er programmerer og student
-- 
+- Er glad i å bygge selv inspirertet prosjekter basert på interesser og hobbier
+
 
 
 
